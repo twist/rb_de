@@ -59,7 +59,7 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 
 <h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio, 28.02.2011 </h2>
 <p>
-Interview bei <a href="http://www.coloradio.org">Coloradio</a> mit einem Vertreter des Bündnis "Dresden Nazifrei" zum 19.02
+Interview bei <a href="http://www.coloradio.org">Coloradio</a> mit einem Vertreter des Bündnis "Dresden Nazifrei" zum 19.02.2011
 <a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">[Hörbeitrag.ogg]</a>
 </p>
 <hr />
