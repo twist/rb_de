@@ -54,6 +54,12 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 } else { ?>
 		<h1 id="begruessung">Guten Tach!</h1>
 
+<h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio zu dem
+Polizeieinsatz am 19.02.2011</h2>
+<p>
+<a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">hörbeitrag.ogg</a>
+</p>
+
 
 <h2>  Jugendhilfe-Newsletter des JugendInfoService Dresden, 25.02.2011  </h2>
 <p>
