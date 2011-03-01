@@ -55,14 +55,15 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 		<h1 id="begruessung">Guten Tach!</h1>
 
 
-<h2> <a href="newsletter_juhi.pdf"> Jugendhilfe-Newsletter des JugendInfoService Dresden, 25.02.2011 </a> </h2>
+<h2>  Jugendhilfe-Newsletter des JugendInfoService Dresden, 25.02.2011  </h2>
 <p>
 "Der Jugendverein "Roter Baum" ist seit vielen Jahren als anerkannter Träger
 der Jugendhilfe insbesondere in den Bereichen offene Kinder-und Jugendarbeit
 sowie politische Jugendbildung tätig."
+<a href="newsletter_juhi.pdf">[pdf]</a> 
 </p>
 <hr />
-<h2> <a href="pm_agja_jena.pdf">Pressemitteilung Arbeitsgruppe Jugendarbeit Jena, 23.02.2011 </a></h2>
+<h2> Pressemitteilung Arbeitsgruppe Jugendarbeit Jena, 23.02.2011 </h2>
 <p>
 "Hier wurden unbeteiligte Dritte seitens der Polizei
 überfallen und mehrere Personen vorläufig festgenommen. Auch dieses
@@ -74,38 +75,43 @@ die Stadt Dresden
 auf, sich umgehend und nachhaltig für die Arbeitsfähigkeit der "Praxis"
 sowie des "Roten Baum e.V." einzusetzen und deren Existenz langfristig zu
 sichern."
+<a href="pm_agja_jena.pdf">[pdf]</a>
 </p>
 <hr />
 
-<h2><a href="mopo_kom.pdf">Morgenpost, 23.02.2011</a></h2>
+<h2>Morgenpost, 23.02.2011</h2>
 <p>
 "Dazu werden eine Partei und ein ihr nahestehender Verein kriminalisiert.
 Das ist undemokratisch und kreuzgefährlich, solange die Beweise nicht
 erdrückend sind. Ganz zu schweigen von dem möglichen Schadensersatz, für den
 im Zweifel wir als Steuerzahler aufkommen müssen."
+<a href="mopo_kom.pdf">[pdf]</a>
 </p>
 <hr />
 
 
-<h2><a href="http://www.dresdeneins.tv/nachrichten/19_Februar__Bilanz-810.html">Dresden-Fernsehen, 22.02.2011</a></h2>
+<h2>Dresden-Fernsehen, 22.02.2011</h2>
 <p>
 "Im Vorfeld der Durchsuchungen waren sich Staatsanwaltschaft und Polizei auf Grund von Aufklärungsergebnissen darüber im Klaren, dass der Gebäudekomplex Großenhainer Straße 93 das Ziel der polizeilichen Maßnahmen war. Die Nennung der Großenhainer Straße 86a erfolgte irrtümlich und ist demnach ein zu vernachlässigender Formfehler, der nicht zur Rechtswidrigkeit des Einsatzes führt. Quelle: LKA Sachsen"
+<a href="http://www.dresdeneins.tv/nachrichten/19_Februar__Bilanz-810.html">[pdf]</a>
 </p>
 <hr />
-<h2><a href="pm_sa.pdf">Pressemitteilung der Staatsanwaltschaft Dresden, 22.02.2011</a></h2>
+<h2>Pressemitteilung der Staatsanwaltschaft Dresden, 22.02.2011</h2>
 <p>
 "Die Staatsanwaltschaft Dresden hat Vorwürfe zurückgewiesen, wonach ein Sondereinsatzkommando der Polizei bei einer Großrazzia das falsche Haus gestürmt haben soll. 
 «Es ging
 immer um das Gebäude an der Großenhainer Straße 93», sagte der Sprecher der Staatsanwaltschaft, Jan Hille, der Nachrichtenagentur dapd am Dienstag. Dies sei allen Einsatzkräften klar gewesen. Allerdings habe es einen Kommunikationsfehler gegeben, räumte Hille ein. Genannt worden sei den Beamten die «Großenhainer Straße 86 a». «Es wurde aber lediglich die Hausnummer verwechselt, nicht das Gebäude», erklärte der Sprecher."    
+<a href="pm_sa.pdf">[pdf]</a>
 </p>
 <hr />
-<h2><a href="sz_22_02.pdf"> Sächsische Zeitung, 22.02.2011</a> </h2>
+<h2>Sächsische Zeitung, 22.02.2011 </h2>
 <p>
 "Man habe den ganzen Komplex durchsuchen müssen, um Beweise zu sichern. Die Aktion habe sich nicht gegen die Linkspartei oder den Roten Baum als Verein gerichtet. Hille: "Das Verfahren läuft gegen unbekannt." Die Polizei bestätigte, dass bei der Razzia Türen gewaltsam geöffnet werden mussten. Der Schaden sei noch unklar."
+<a href="sz_22_02.pdf">[pdf]</a> 
 </p>
 
 <hr />
-<h2><a href="pm_rb.pdf">Presseerklärung "Roter Baum" e.V., 21.02.2011</a></h2>
+<h2>Presseerklärung "Roter Baum" e.V., 21.02.2011</h2>
 
 <p>
 zu den Durchsuchungen im Jugendhaus des Jugendvereines "Roter Baum" e.V. am 19. Februar
@@ -174,6 +180,7 @@ Kontakt:
 Jugendverein "Roter Baum" Dresden e.V., <br /> 
 www.roter-baum.de, info@roter-baum.de <br />
 Martin Krappmann, 1. Vorsitzender und Anne Gieland, 2. Vorsitzende, Anja Stephan, Geschäftsführerin, Tel: 0351-8582720
+<a href="pm_rb.pdf">[pdf]</a>
 </p>
 
 		<!--ul>
