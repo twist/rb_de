@@ -57,8 +57,9 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio zu dem
 Polizeieinsatz am 19.02.2011</h2>
 <p>
-<a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">hörbeitrag.ogg</a>
+<a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">[hörbeitrag.ogg]</a>
 </p>
+<hr />
 
 
 <h2>  Jugendhilfe-Newsletter des JugendInfoService Dresden, 25.02.2011  </h2>
@@ -99,7 +100,7 @@ im Zweifel wir als Steuerzahler aufkommen müssen."
 <h2>Dresden-Fernsehen, 22.02.2011</h2>
 <p>
 "Im Vorfeld der Durchsuchungen waren sich Staatsanwaltschaft und Polizei auf Grund von Aufklärungsergebnissen darüber im Klaren, dass der Gebäudekomplex Großenhainer Straße 93 das Ziel der polizeilichen Maßnahmen war. Die Nennung der Großenhainer Straße 86a erfolgte irrtümlich und ist demnach ein zu vernachlässigender Formfehler, der nicht zur Rechtswidrigkeit des Einsatzes führt. Quelle: LKA Sachsen"
-<a href="http://www.dresdeneins.tv/nachrichten/19_Februar__Bilanz-810.html">[beitrag bei dresden fernsehen]</a>
+<a href="http://www.dresdeneins.tv/nachrichten/19_Februar__Bilanz-810.html">[onlinevideo]</a>
 </p>
 <hr />
 <h2>Pressemitteilung der Staatsanwaltschaft Dresden, 22.02.2011</h2>
