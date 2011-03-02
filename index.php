@@ -65,7 +65,7 @@ Dresden, 01.03.2011</h2>
 gegenüber dem Bündnis "Dresden Nazifrei!", dem Jugendverein "Roter
 Baum e.V.", dem Wohnprojekt "Praxis" und allen von unverhältnismäßigen
 polizeilichen Maßnahmen betroffenen Bürger und Bürgerinnen
-solidarisch."
+solidarisch." <a href="http://www.aks-dresden.org/solidaritaetserklaerung-des-arbeitskreises-kritische-soziale-arbeit-dresden-aks-dresden-bezueglich-der-vorfaelle-am-1922011/#c313">[weblink]</a>
 </p>
 <hr />
 <h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio, 28.02.2011 </h2>
