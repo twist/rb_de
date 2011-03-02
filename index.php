@@ -57,6 +57,17 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h1 align="right">Meldungen zum 19. Februar 2011</h1>
 <hr />
 
+
+<h2>Solidaritätserklärung des Arbeitskreises Kritische Soziale Arbeit
+Dresden, 01.03.2011</h2>
+<p>
+"Der Arbeitskreis Kritische Soziale Arbeit Dresden erklärt sich
+gegenüber dem Bündnis "Dresden Nazifrei!", dem Jugendverein "Roter
+Baum e.V.", dem Wohnprojekt "Praxis" und allen von unverhältnismäßigen
+polizeilichen Maßnahmen betroffenen Bürger und Bürgerinnen
+solidarisch."
+</p>
+<hr />
 <h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio, 28.02.2011 </h2>
 <p>
 Interview bei <a href="http://www.coloradio.org">Coloradio</a> mit einem Vertreter des Bündnis "Dresden Nazifrei" zum 19.02.2011
