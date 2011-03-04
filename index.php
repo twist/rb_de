@@ -23,7 +23,7 @@ require_once $global_dat; unset ($global_dat);
 <div id="header">
 	<div id="navigation">
     <a href="http://wiki.roter-baum.de">Wiki</a> |
-		<a href="http://www.graphicguestbook.com/roter-baum-de">Gästebuch</a> |
+		<a href="http://www.graphicguestbook.com/roter-baum-de">Gï¿½stebuch</a> |
 		<a href="http://www.facebook.com/pages/Roter-Baum-eV/360591047714"><img id="facebook" src="/img/facebook.png" alt="facebook"/></a> |
 		<form method="get" action="/suche"><p>
 			<input type="text" name="q"/><input type="submit" value="Suchen"/>
@@ -57,43 +57,49 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h1 align="right">Meldungen zum 19. Februar 2011</h1>
 <hr />
 
+<h2>OB-Stellvertreter Dirk Hilbert lehnt Antrag zu â€žRoter Baum" ab, DNN 04.03.2011</h2>
+<p>
+Die CDU-Fraktion ist am Donnerstag im Rat an OB-Stellvertreter Dirk Hilbert (FDP) mit ihrem Eilantrag gescheitert, 240.000 Euro FÃ¶rdergelder fÃ¼r den â€žRoten Baum" unter Vorbehalt zu stellen. Der Erlass eines solchen Bescheides sei GeschÃ¤ft der Verwaltung. Jeder Bescheid stehe unter einem Widerrufsrecht, sagte Hilbert. 
 
-<h2>Solidaritätserklärung des Arbeitskreises Kritische Soziale Arbeit
+Weil RÃ¤ume auf der GroÃŸenhainer StraÃŸe 93, die auch vom â€žRoten Baum" genutzt werden, im Zusammenhang mit dem 19. Februar durchsucht worden waren, wollte die CDU die Ermittlungen abwarten. Die Staatsanwaltschaft habe mitgeteilt, dass gegen den â€žRoten Baum" nicht ermittelt werde, so Linke-Chef AndrÃ© Schollbach. title="Ob Hilbert lehnt Antrag der CDU ab" href="http://www.dnn-online.de/dresden/citynews/fdp-abgeordneter-dirk-hilbert-lehnt-antrag-zu-roter-baum/r-citynews-a-22024.html" target="_blank">[Weblink]
+</p>
+
+<h2>Solidaritï¿½tserklï¿½rung des Arbeitskreises Kritische Soziale Arbeit
 Dresden, 01.03.2011</h2>
 <p>
-"Der Arbeitskreis Kritische Soziale Arbeit Dresden erklärt sich
-gegenüber dem Bündnis "Dresden Nazifrei!", dem Jugendverein "Roter
-Baum e.V.", dem Wohnprojekt "Praxis" und allen von unverhältnismäßigen
-polizeilichen Maßnahmen betroffenen Bürger und Bürgerinnen
+"Der Arbeitskreis Kritische Soziale Arbeit Dresden erklï¿½rt sich
+gegenï¿½ber dem Bï¿½ndnis "Dresden Nazifrei!", dem Jugendverein "Roter
+Baum e.V.", dem Wohnprojekt "Praxis" und allen von unverhï¿½ltnismï¿½ï¿½igen
+polizeilichen Maï¿½nahmen betroffenen Bï¿½rger und Bï¿½rgerinnen
 solidarisch." <a href="http://www.aks-dresden.org/solidaritaetserklaerung-des-arbeitskreises-kritische-soziale-arbeit-dresden-aks-dresden-bezueglich-der-vorfaelle-am-1922011/#c313">[Weblink]</a>
 </p>
 <hr />
-<h2>Das "Bündnis Dresden Nazifrei" äußert sich über Coloradio, 28.02.2011 </h2>
+<h2>Das "Bï¿½ndnis Dresden Nazifrei" ï¿½uï¿½ert sich ï¿½ber Coloradio, 28.02.2011 </h2>
 <p>
-Interview bei <a href="http://www.coloradio.org">Coloradio</a> mit einem Vertreter des Bündnis "Dresden Nazifrei" zum 19.02.2011
-<a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">[Hörbeitrag.ogg]</a>
+Interview bei <a href="http://www.coloradio.org">Coloradio</a> mit einem Vertreter des Bï¿½ndnis "Dresden Nazifrei" zum 19.02.2011
+<a href="http://coloradio.org/site/wp-content/files/nazifrei_nach_razzia.ogg">[Hï¿½rbeitrag.ogg]</a>
 </p>
 <hr />
 
 
 <h2>  Jugendhilfe-Newsletter des JugendInfoService Dresden, 25.02.2011  </h2>
 <p>
-"Der Jugendverein "Roter Baum" ist seit vielen Jahren als anerkannter Träger
+"Der Jugendverein "Roter Baum" ist seit vielen Jahren als anerkannter Trï¿½ger
 der Jugendhilfe insbesondere in den Bereichen offene Kinder-und Jugendarbeit
-sowie politische Jugendbildung tätig."
+sowie politische Jugendbildung tï¿½tig."
 <a href="newsletter_juhi.pdf">[Pdf]</a> 
 </p>
 <hr />
 <h2> Pressemitteilung Arbeitsgruppe Jugendarbeit Jena, 23.02.2011 </h2>
 <p>
 "Hier wurden unbeteiligte Dritte seitens der Polizei
-überfallen und mehrere Personen vorläufig festgenommen. Auch dieses
+ï¿½berfallen und mehrere Personen vorlï¿½ufig festgenommen. Auch dieses
 grundlose und martialische Vorgehen der Dresdner Polizei gegen eine
 Jugendeinrichtung am 19.02. stellt aus unserer Sicht einen nicht
-hinnehmbaren Skandal dar. Die AG Jugendarbeit Jena erklärt sich mit den
+hinnehmbaren Skandal dar. Die AG Jugendarbeit Jena erklï¿½rt sich mit den
 betroffenen Einrichtungen solidarisch. Wir fordern den Freistaat Sachsen und
 die Stadt Dresden
-auf, sich umgehend und nachhaltig für die Arbeitsfähigkeit der "Praxis"
+auf, sich umgehend und nachhaltig fï¿½r die Arbeitsfï¿½higkeit der "Praxis"
 sowie des "Roten Baum e.V." einzusetzen und deren Existenz langfristig zu
 sichern."
 <a href="pm_agja_jena.pdf">[Pdf]</a>
@@ -103,9 +109,9 @@ sichern."
 <h2>Morgenpost, 23.02.2011</h2>
 <p>
 "Dazu werden eine Partei und ein ihr nahestehender Verein kriminalisiert.
-Das ist undemokratisch und kreuzgefährlich, solange die Beweise nicht
-erdrückend sind. Ganz zu schweigen von dem möglichen Schadensersatz, für den
-im Zweifel wir als Steuerzahler aufkommen müssen."
+Das ist undemokratisch und kreuzgefï¿½hrlich, solange die Beweise nicht
+erdrï¿½ckend sind. Ganz zu schweigen von dem mï¿½glichen Schadensersatz, fï¿½r den
+im Zweifel wir als Steuerzahler aufkommen mï¿½ssen."
 <a href="mopo_kom.pdf">[Pdf]</a>
 </p>
 <hr />
@@ -113,46 +119,46 @@ im Zweifel wir als Steuerzahler aufkommen müssen."
 
 <h2>Dresden-Fernsehen, 22.02.2011</h2>
 <p>
-"Im Vorfeld der Durchsuchungen waren sich Staatsanwaltschaft und Polizei auf Grund von Aufklärungsergebnissen darüber im Klaren, dass der Gebäudekomplex Großenhainer Straße 93 das Ziel der polizeilichen Maßnahmen war. Die Nennung der Großenhainer Straße 86a erfolgte irrtümlich und ist demnach ein zu vernachlässigender Formfehler, der nicht zur Rechtswidrigkeit des Einsatzes führt. Quelle: LKA Sachsen"
+"Im Vorfeld der Durchsuchungen waren sich Staatsanwaltschaft und Polizei auf Grund von Aufklï¿½rungsergebnissen darï¿½ber im Klaren, dass der Gebï¿½udekomplex Groï¿½enhainer Straï¿½e 93 das Ziel der polizeilichen Maï¿½nahmen war. Die Nennung der Groï¿½enhainer Straï¿½e 86a erfolgte irrtï¿½mlich und ist demnach ein zu vernachlï¿½ssigender Formfehler, der nicht zur Rechtswidrigkeit des Einsatzes fï¿½hrt. Quelle: LKA Sachsen"
 <a href="http://www.dresdeneins.tv/nachrichten/19_Februar__Bilanz-810.html">[Onlinevideo]</a>
 </p>
 <hr />
 <h2>Pressemitteilung der Staatsanwaltschaft Dresden, 22.02.2011</h2>
 <p>
-"Die Staatsanwaltschaft Dresden hat Vorwürfe zurückgewiesen, wonach ein Sondereinsatzkommando der Polizei bei einer Großrazzia das falsche Haus gestürmt haben soll. 
-«Es ging
-immer um das Gebäude an der Großenhainer Straße 93», sagte der Sprecher der Staatsanwaltschaft, Jan Hille, der Nachrichtenagentur dapd am Dienstag. Dies sei allen Einsatzkräften klar gewesen. Allerdings habe es einen Kommunikationsfehler gegeben, räumte Hille ein. Genannt worden sei den Beamten die «Großenhainer Straße 86 a». «Es wurde aber lediglich die Hausnummer verwechselt, nicht das Gebäude», erklärte der Sprecher."    
+"Die Staatsanwaltschaft Dresden hat Vorwï¿½rfe zurï¿½ckgewiesen, wonach ein Sondereinsatzkommando der Polizei bei einer Groï¿½razzia das falsche Haus gestï¿½rmt haben soll. 
+ï¿½Es ging
+immer um das Gebï¿½ude an der Groï¿½enhainer Straï¿½e 93ï¿½, sagte der Sprecher der Staatsanwaltschaft, Jan Hille, der Nachrichtenagentur dapd am Dienstag. Dies sei allen Einsatzkrï¿½ften klar gewesen. Allerdings habe es einen Kommunikationsfehler gegeben, rï¿½umte Hille ein. Genannt worden sei den Beamten die ï¿½Groï¿½enhainer Straï¿½e 86 aï¿½. ï¿½Es wurde aber lediglich die Hausnummer verwechselt, nicht das Gebï¿½udeï¿½, erklï¿½rte der Sprecher."    
 <a href="pm_sa.pdf">[Pdf]</a>
 </p>
 <hr />
-<h2>Sächsische Zeitung, 22.02.2011 </h2>
+<h2>Sï¿½chsische Zeitung, 22.02.2011 </h2>
 <p>
-"Man habe den ganzen Komplex durchsuchen müssen, um Beweise zu sichern. Die Aktion habe sich nicht gegen die Linkspartei oder den Roten Baum als Verein gerichtet. Hille: "Das Verfahren läuft gegen unbekannt." Die Polizei bestätigte, dass bei der Razzia Türen gewaltsam geöffnet werden mussten. Der Schaden sei noch unklar."
+"Man habe den ganzen Komplex durchsuchen mï¿½ssen, um Beweise zu sichern. Die Aktion habe sich nicht gegen die Linkspartei oder den Roten Baum als Verein gerichtet. Hille: "Das Verfahren lï¿½uft gegen unbekannt." Die Polizei bestï¿½tigte, dass bei der Razzia Tï¿½ren gewaltsam geï¿½ffnet werden mussten. Der Schaden sei noch unklar."
 <a href="sz_22_02.pdf">[Pdf]</a> 
 </p>
 
 <hr />
-<h2>Presseerklärung "Roter Baum" e.V., 21.02.2011</h2>
+<h2>Presseerklï¿½rung "Roter Baum" e.V., 21.02.2011</h2>
 
 <p>
 zu den Durchsuchungen im Jugendhaus des Jugendvereines "Roter Baum" e.V. am 19. Februar
 </p>
 
 <p>
-Am Abend des 19. Februar stürmte ein Sondereinsatzkommando der Polizei maskiert und in
-voller Kampfausrüstung das "Haus der Begegnung" in Dresden und das Jugendhaus des
-Jugendvereines "Roter Baum" e.V.. Dabei wurden sämtliche Türen des Hauses zerstört und die
-Einrichtung verwüstet, obwohl alle Schlüssel zu den Türen vor Ort waren und das SEK darüber
-auch ausdrücklich informiert wurde. Mehrere Personen wurden durch das äußerst aggressive
-und völlig unverhältnismäßige Vorgehen des Sondereinsatzkommandos verletzt. Anschließend
+Am Abend des 19. Februar stï¿½rmte ein Sondereinsatzkommando der Polizei maskiert und in
+voller Kampfausrï¿½stung das "Haus der Begegnung" in Dresden und das Jugendhaus des
+Jugendvereines "Roter Baum" e.V.. Dabei wurden sï¿½mtliche Tï¿½ren des Hauses zerstï¿½rt und die
+Einrichtung verwï¿½stet, obwohl alle Schlï¿½ssel zu den Tï¿½ren vor Ort waren und das SEK darï¿½ber
+auch ausdrï¿½cklich informiert wurde. Mehrere Personen wurden durch das ï¿½uï¿½erst aggressive
+und vï¿½llig unverhï¿½ltnismï¿½ï¿½ige Vorgehen des Sondereinsatzkommandos verletzt. Anschlieï¿½end
 mussten sie sich nackt durchsuchen lassen, wurden mehrere Stunden gefesselt festgehalten,
-dann schließlich in Gewahrsam genommen und erkennungsdienstlich behandelt.
+dann schlieï¿½lich in Gewahrsam genommen und erkennungsdienstlich behandelt.
 </p>
 
 <p>
-Wir vermuten, dass die Durchsuchung im Zusammenhang mit dem "Bündnis Dresden Nazifrei"
+Wir vermuten, dass die Durchsuchung im Zusammenhang mit dem "Bï¿½ndnis Dresden Nazifrei"
 steht, welches den breiten gesellschaftlichen Protest gegen den Neonaziaufmarsch in Dresden
-unterstützt und Räume im "Haus der Begegnung" genutzt hat. In der Presse erklärte ein
+unterstï¿½tzt und Rï¿½ume im "Haus der Begegnung" genutzt hat. In der Presse erklï¿½rte ein
 Sprecher der Staatsanwaltschaft aber, dass gegen unseren Verein ermittelt wird.
 </p>
 
@@ -161,53 +167,53 @@ Dazu stellen wir fest:
 </p>
 
 <p>
-Der Jugendverein "Roter Baum" e.V. hat den Aufruf des "Bündnis Dresden Nazifrei" zum
-friedlichen Protest unterstützt, welcher von einer Vielzahl von Politikern, Künstlern und
+Der Jugendverein "Roter Baum" e.V. hat den Aufruf des "Bï¿½ndnis Dresden Nazifrei" zum
+friedlichen Protest unterstï¿½tzt, welcher von einer Vielzahl von Politikern, Kï¿½nstlern und
 Initiativen getragen wird und dem sich 20 000 Menschen angeschlossen haben. Das
-Jugendhaus wurde von jungen Sanitätern genutzt, welche die Demonstrationen am 13. und
+Jugendhaus wurde von jungen Sanitï¿½tern genutzt, welche die Demonstrationen am 13. und
 19.02.2011 begleitet haben, um eventuellen Verletzten unparteiisch und ehrenamtlich zu helfen.
 </p>
 
 <p>
-Bis jetzt wurde seitens der Staatsanwaltschaft uns gegenüber nichts erklärt. Uns sind weder die
-Vorwürfe bekannt, noch dass Ermittlungen gegen unseren Verein laufen. "Wir gehen deswegen
+Bis jetzt wurde seitens der Staatsanwaltschaft uns gegenï¿½ber nichts erklï¿½rt. Uns sind weder die
+Vorwï¿½rfe bekannt, noch dass Ermittlungen gegen unseren Verein laufen. "Wir gehen deswegen
 davon aus, dass das gesamte Verfahren gegenstandlos ist und fordern von der
-Staatsanwaltschaft eine Erklärung für ihr Vorgehen und eine öffentliche Richtigstellung", so
+Staatsanwaltschaft eine Erklï¿½rung fï¿½r ihr Vorgehen und eine ï¿½ffentliche Richtigstellung", so
 Martin Krappmann, 1. Vorsitzender des Jugendvereins "Roter Baum" e.V.. Wir protestieren
-ausdrücklich gegen das Vorgehen der Staatsanwaltschaft und der Polizei und fordern eine
-vollständige Aufklärung und Entschuldigung bei den Opfern und unserem Verein, dem durch die
-öffentliche Verleumdung erheblicher Schaden entstehen könnte.
+ausdrï¿½cklich gegen das Vorgehen der Staatsanwaltschaft und der Polizei und fordern eine
+vollstï¿½ndige Aufklï¿½rung und Entschuldigung bei den Opfern und unserem Verein, dem durch die
+ï¿½ffentliche Verleumdung erheblicher Schaden entstehen kï¿½nnte.
 </p>
 
 <p>
-Wir distanzieren uns ausdrücklich von allen Ausschreitungen gegenüber Polizeibeamten.
+Wir distanzieren uns ausdrï¿½cklich von allen Ausschreitungen gegenï¿½ber Polizeibeamten.
 Gewalt lehnen wir ab, sie stellt einen Widerspruch zu den Werten unseres Vereines dar.
 </p>
 
 <p>
-Wir werden in den nächsten Tagen versuchen, unsere Arbeitsfähigkeit wieder herzustellen,
-notwendige Reparaturen durchzuführen und unsere seit Jahren gute und bewährte Jugendarbeit
-fortzusetzen. Dafür brauchen wir die Unterstützung und Solidarität aller Menschen, die sich
-gegen die Naziaufmärsche gestellt haben. Vielen Dank.
+Wir werden in den nï¿½chsten Tagen versuchen, unsere Arbeitsfï¿½higkeit wieder herzustellen,
+notwendige Reparaturen durchzufï¿½hren und unsere seit Jahren gute und bewï¿½hrte Jugendarbeit
+fortzusetzen. Dafï¿½r brauchen wir die Unterstï¿½tzung und Solidaritï¿½t aller Menschen, die sich
+gegen die Naziaufmï¿½rsche gestellt haben. Vielen Dank.
 </p>
 
 <p>
 Spendenkonto: Jugendverein "Roter Baum" e.V.
-Bank für Sozialwirtschaft, BLZ 850 205 00, KontoNummer 3 577 200
+Bank fï¿½r Sozialwirtschaft, BLZ 850 205 00, KontoNummer 3 577 200
 </p>
 
 <p>
 Kontakt:
 Jugendverein "Roter Baum" Dresden e.V., <br /> 
 www.roter-baum.de, info@roter-baum.de <br />
-Martin Krappmann, 1. Vorsitzender und Anne Gieland, 2. Vorsitzende, Anja Stephan, Geschäftsführerin, Tel: 0351-8582720
+Martin Krappmann, 1. Vorsitzender und Anne Gieland, 2. Vorsitzende, Anja Stephan, Geschï¿½ftsfï¿½hrerin, Tel: 0351-8582720
 <a href="pm_rb.pdf">[Pdf]</a>
 </p>
 
 		<!--ul>
 			<li><a>Es ist wieder soweit &mdash; der Sommer ist in Sichtweite und wir wollen mit euch wegfahren.</a></li>
-			<li><a>Ob an die Ostsee oder den Balaton, baden kann man fast überall.</a></li>
-			<li><a>Man muss sich nur entscheiden können zwischen Rügen, Steilküste oder plattem ungarischem Strand.</a></li>
+			<li><a>Ob an die Ostsee oder den Balaton, baden kann man fast ï¿½berall.</a></li>
+			<li><a>Man muss sich nur entscheiden kï¿½nnen zwischen Rï¿½gen, Steilkï¿½ste oder plattem ungarischem Strand.</a></li>
 		</ul>
 		
 		<hr/>
