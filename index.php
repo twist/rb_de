@@ -57,6 +57,14 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h1 align="right">Meldungen zum 19. Februar 2011</h1>
 <hr />
 
+<h2> Dresdner Neuste Nachrichten, 04.03.2011 </h2>
+<p>
+"Die CDU-Fraktion ist am Donnerstag im Rat an OB-Stellvertreter Dirk
+Hilbert (FDP) mit ihrem Eilantrag gescheitert, 240.000 Euro
+Fördergelder für den "Roten Baum" unter Vorbehalt zu stellen." <a href="dnn_04_03_2011.pdf">[Pdf]</a>
+</p>
+<hr />
+
 
 <h2>Solidaritätserklärung des Arbeitskreises Kritische Soziale Arbeit
 Dresden, 01.03.2011</h2>
