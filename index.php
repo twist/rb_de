@@ -64,7 +64,7 @@ Die CDU-Fraktion ist am Donnerstag im Rat an OB-Stellvertreter Dirk Hilbert (FDP
 Weil Räume auf der Großenhainer Straße 93, die auch vom „Roten Baum" genutzt werden, im Zusammenhang mit dem 19. Februar durchsucht worden waren, wollte die CDU die Ermittlungen abwarten. Die Staatsanwaltschaft habe mitgeteilt, dass gegen den „Roten Baum" nicht ermittelt werde, so Linke-Chef André Schollbach. <a title="Ob Hilbert lehnt Antrag der CDU ab" href="http://www.dnn-online.de/dresden/citynews/fdp-abgeordneter-dirk-hilbert-lehnt-antrag-zu-roter-baum/r-citynews-a-22024.html" target="_blank">[Weblink]</a>
 
 </p>
-<hr />
+
 <h2>Solidarit�tserkl�rung des Arbeitskreises Kritische Soziale Arbeit
 Dresden, 01.03.2011</h2>
 <p>
