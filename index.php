@@ -57,6 +57,12 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h1 align="right">Meldungen zum 19. Februar 2011</h1>
 <hr />
 
+<h2> Kinder- und Jugendring Sachsen e.V., 24.03.2011 </h2>
+<p>
+"Der Verein existiert seit 1993, engagiert sich in hervorragender Weise in der offenen Jugendarbeit, organisiert Veranstaltungen für Kindergärten und Schulen, betreut und qualifiziert ehrenamtlich Engagierte, betreibt ein Demokratieprojekt, ist Entsende- und Empfängerorganisation für den Europäischen Freiwilligendienst "European Voluntary Service" und vieles andere mehr. Seit 2006 ist der Jugendverein zudem Mitglied im Kinder- und Jugendring Sachsen e.V. und dort ein geachteter und anerkannter Partner im fachlichen Ringen um die Entwicklung von für Kinder und Jugendliche förderlichen Rahmenbedingungen."
+
+<a href="http://www.kjrs-online.de/index.php?m=aktuelles">[Link]</a> <a href="kjrs.pdf">[Pdf]</a>
+</p>
 <h2> Bundesweite Unterstützungserklärung „Hände weg vom Roten Baum!“, 08.03.2011 </h2>
 <p>
 "Wir, die Unterzeichner, wenden uns schärfstens gegen jeden Versuch,
