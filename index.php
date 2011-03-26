@@ -57,6 +57,18 @@ if ($modul && strpos ($modul, '.') === false && is_file ('.module/'.$modul.'.php
 <h1 align="right">Meldungen zum 19. Februar 2011</h1>
 <hr />
 
+<h2> Bundesweite Unterstützungserklärung „Hände weg vom Roten Baum!“, 08.03.2011 </h2>
+<p>
+"Wir, die Unterzeichner, wenden uns schärfstens gegen jeden Versuch,
+diesen renommierten Träger der Jugendhilfe zu kriminalisieren, seinen
+Ruf zu schädigen und damit das Vertrauen der Kinder, Jugendlichen und
+ihrer Eltern zum Verein zu zerstören. Wir fordern die Dresdner CDU und
+FDP auf, ihre Kampagne gegen den Verein sofort einzustellen!"
+<p></p>
+Der <a href="http://haendewegvomrotenbaum.blogsport.de/">[Link]</a> zur Unterstützerseite sowie die <a href="haende_weg_0803.pdf">[Pdf]</a>.
+</p>
+<hr />
+
 <h2> Dresdner Neuste Nachrichten, 04.03.2011 </h2>
 <p>
 "Die CDU-Fraktion ist am Donnerstag im Rat an OB-Stellvertreter Dirk
@@ -65,6 +77,29 @@ Fördergelder für den "Roten Baum" unter Vorbehalt zu stellen." <a href="dnn_04_0
 </p>
 <hr />
 
+<h2> DresdenEins-Fernsehen, 04.03.2011 </h2>
+<p>
+"Für den Kinder- und Jugendverein Roter Baum e. V. ist die
+Durchsuchung imageschädigend. Mittlerweile hat die Staatsanwaltschaft
+bekanntgegeben, dass der Verein keiner Straftat beschuldigt wird.
+Trotzdem hat die CDU-Fraktion im Stadtrat einen Eilantrag gestellt, in
+dem gefordert wird, dass die Fördergelder für den Verein nur noch
+unter Vorbehalt ausgezahlt werden sollen."
+<a href="http://www.dresdeneins.tv/nachrichten/DIE_LINKE_reicht_Klage_ein-840.html">[Onlinevideo]</a>
+</p>
+<hr />
+
+<h2> Erklärung der Dresdner Bundestagsabgeordneten der LINKEN Katja Kipping, 03.03.2011 </h2>
+<p>
+"Der Verdacht drängt sich auf, dass die Dresdner CDU hier nach dem
+Motto „Es bleibt immer etwas hängen“ einen politisch missliebigen
+Jugendverein einschüchtern, diskreditieren und Angst bei den Eltern
+schüren will, deren Kinder von den zahlreichen Projekten des Vereins
+betreut werden. Dies wäre allerdings ein Politikverständnis
+ekelhaftester Sorte!"
+<a href="kipping_03_03_2011.pdf">[Pdf]</a>
+</p>
+<hr />
 
 <h2>Solidaritätserklärung des Arbeitskreises Kritische Soziale Arbeit
 Dresden, 01.03.2011</h2>
